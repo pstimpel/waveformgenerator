@@ -33,6 +33,10 @@ Another issue I had was to balance out the whole circuit, so I would be able to 
 
 I built the whole circuit at least 4 times on breadboards. And what to tell: those breadboards can be a pain in the ass, at least the cheapos. 
 
+## What can you expect?
+
+You will get a waveform generator able to generate sine, triangle and square waves. The frequency range is from about 1 Hz up to 100 kHz, split into 5 ranges you can switch between (1-10, 10-100, 100 to 1,000, 1,000 to 10,000 and 10,000 to 100,000 Hz, roughly). You can adjust the frequency within these ranges by two potis. The amplitude is about +5 to -5 V (adjustable) at the 50 Ohms output, and from 0 to 5V at the TTL output. There is a basic Pulse width modulation available as well. You can adjust the pulse width. By combining sine or triangle waves and PWM you recieve kind of a ramp modulation. The waveform is quite solid, but with 100kHz you will see some distortion and spikes. It seems this is kind of a typical behavior of the XR2206 chipset. There is a frequency counter used to display the set frequency. However, this is kind of an estimation, especially in very low Hz ranges.
+
 ## What you will find in this repository
 
 ### Folder enclosure
