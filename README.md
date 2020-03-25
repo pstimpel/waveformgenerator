@@ -86,6 +86,9 @@ To have frequence counting, you will need to add library FreqCounter by Martin N
 
 I highly recommend testing the circuit on a breadboard before you go for the soldering stuff. You will learn much more that way than by just following this rough guide. 
 
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200220_083028.jpg "Half of the circuit")
+
+
 ### Pricing vs functionality vs fun
 
 If you look for a decent waveform generator delivering Megahertz samples, buy one. 
