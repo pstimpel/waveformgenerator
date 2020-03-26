@@ -1,5 +1,9 @@
 # Waveform Generator
 
+ 
+[![Video on Youtube](https://img.youtube.com/vi/MJ1rr9S12Lc/0.jpg)](https://www.youtube.com/watch?v=MJ1rr9S12Lc)
+
+
 First of all, the credit for creating the basic circuit goes to Scullcom Hobby Electronics Youtube channel, who is inactive meanwhile - sadly.
 
 https://www.youtube.com/channel/UCDqryeq1kMDSEQwltWqASrA
@@ -43,6 +47,9 @@ You will get a waveform generator able to generate sine, triangle and square wav
 
 This folder contains the stl files to 3D print the enclosure. I was using PLA and my Prusa I3 Mk3 printer. On top, there are 2 PDFs containing labels. You could just print them, cut them out of the sheet of paper, use an exacto knife to cut the holes, and mount it to the front of your enclosure
 
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/wvg.jpg "Enclosure in Fusion 360")
+
+
 ### Folder circuits
 
 There are 2 circuits. One keeps all the control stuff and the Arduino, and the other creates the waveform and gets controlled by the control board. There are gerber files, the KICAD board file, and PDFs with the circuit scheme itself. In each subfolder you wil find a list of parts. 
@@ -76,7 +83,19 @@ Beside the stuff from the parts lists in the circuit folders, you will need
 
 Order PCBs and parts, solder all the stuff together, patch the Arduino using the sketch provided, 3d Print the enclosure, put PCBs inside enclosure, mount LCD, potis and switches to the front, solder dupont style wires to them, connect with the PCBs, mount BNC sockets to the front, use some cable to connect them to the PCB, insert 5.5x2.1 soocket in its pocket, lock it using the lock, connect it to the PCB. Lock the PCBs using the pcblock, secure it using one of the screws. Close the enclosure. Connect power, switch the device on, and have fun.
 
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200320_211039.jpg "Etching one of the PCBs")
 
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200320_211827.jpg "Final PCB")
+
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200321_164054.jpg "Does it work?")
+
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200325_190900.jpg "Put the stuff into the enclosure")
+
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200325_191428.jpg "Still working?")
+
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200325_191501.jpg "Some mayhem")
+
+![alt text](https://github.com/pstimpel/waveformgenerator/raw/master/media/IMG_20200326_204721.jpg "Done!")
 
 ## Remarks, hints
 
