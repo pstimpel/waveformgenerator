@@ -8,6 +8,11 @@ First of all, the credit for creating the basic circuit goes to Scullcom Hobby E
 
 https://www.youtube.com/channel/UCDqryeq1kMDSEQwltWqASrA
 
+Project page at Thingiverse: https://www.thingiverse.com/thing:4243526
+
+Project page at Prusaprinters: https://www.prusaprinters.org/prints/27172-xr2206-waveform-generator
+
+
 ## Why?
 
 Someone said: when starting the hobby electronics, you will need to build 2 things, a power supply and a waveform generator.
