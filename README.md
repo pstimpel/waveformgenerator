@@ -3,6 +3,7 @@
  
 [![Video on Youtube](https://img.youtube.com/vi/MJ1rr9S12Lc/0.jpg)](https://www.youtube.com/watch?v=MJ1rr9S12Lc)
 
+Click to play video
 
 First of all, the credit for creating the basic circuit goes to Scullcom Hobby Electronics Youtube channel, who is inactive meanwhile - sadly.
 
