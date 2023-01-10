@@ -126,6 +126,10 @@ If you look for the cheapest of all solutions, by such a chinese XR2206 kit for 
 
 If you want to enjoy DIY, start buying parts and follow the guide I provided. Good luck, wish you well.
 
+### Credits
+
+'rine 77' https://github.com/rine77 contributed updated circuit data, compatible with Kicad6
+
 ## CORONA
 
-This project was finished during the spare time provided by Corona. If someone reads this in the future, I reall hope Corona is no issue anymore. Until then: stay safe, wash your hands, and take care of your family.
+This project was finished during the spare time provided by Corona. If someone reads this in the future, I really hope Corona is no issue anymore. Until then: stay safe, wash your hands, and take care of your family.
